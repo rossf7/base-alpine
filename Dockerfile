@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:3.2
+FROM gliderlabs/alpine:3.3
 MAINTAINER hello@neilellis.me
 
 COPY rootfs /
